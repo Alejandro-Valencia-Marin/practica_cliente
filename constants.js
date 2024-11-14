@@ -1,14 +1,10 @@
+// constants.js
+const SELECTORS = {
+    taskInput: '#task-input',
+    addTaskBtn: '#add-task-btn',
+    taskList: '#task-list'
+};
 
-//forma simple
-export const COMPANY = "PIio Baroja"
-export const MODULE = "programacion en entorno cliente"
-
-
-
-// forma Default
-
-export default {
-COMP : "PIio Baroja",
-MOD : "programacion en entorno cliente"
-}
-
+const MESSAGES = {
+    emptyTask: 'No puedes agregar una tarea vacía.'
+};
