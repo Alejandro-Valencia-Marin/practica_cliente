@@ -1,4 +1,4 @@
-// constants.js
+
 const SELECTORS = {
     taskInput: '#task-input',
     addTaskBtn: '#add-task-btn',
